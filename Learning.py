@@ -6,3 +6,5 @@
 
 # Please excuse the mess OwO
 #Crystal ball project maybe?
+for i in range(1,11):
+    print(i)
